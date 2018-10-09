@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Content
+  - Note
+  - KeyBeam1
+  - KeyBeam2
+  - KeyBeam3
+  - 1
+  - 2
+  - 3
+  - Line1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Slide
+  - DecisionLine
+  - 
+  - PlayerPosition
+  - 
+  - 
+  - 
+  - 
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 4281950615
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CanvasPlaying
+    uniqueID: 4098466703
+    locked: 0
+  - name: CanvasUI
+    uniqueID: 4236597541
+    locked: 0
+  - name: Effects
+    uniqueID: 1555045031
+    locked: 0
