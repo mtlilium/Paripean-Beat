@@ -1,0 +1,7 @@
+﻿{"name":"Tutorial",
+"maxBlock":12,
+"BPM":120,
+"offset":0,
+"stage":-1,
+"notes":[{"LPB":4,"num":0,"block":1,"type":1,"notes":[]},{"LPB":4,"num":8,"block":1,"type":1,"notes":[]},{"LPB":4,"num":16,"block":1,"type":1,"notes":[]},{"LPB":4,"num":24,"block":8,"type":1,"notes":[]},{"LPB":4,"num":32,"block":2,"type":1,"notes":[]},{"LPB":4,"num":40,"block":2,"type":1,"notes":[]},{"LPB":4,"num":48,"block":2,"type":1,"notes":[]},{"LPB":4,"num":56,"block":9,"type":1,"notes":[]},{"LPB":4,"num":64,"block":2,"type":1,"notes":[]},{"LPB":4,"num":72,"block":2,"type":1,"notes":[]},{"LPB":4,"num":80,"block":1,"type":1,"notes":[]},{"LPB":4,"num":88,"block":4,"type":1,"notes":[]},{"LPB":4,"num":96,"block":2,"type":1,"notes":[]},{"LPB":4,"num":104,"block":2,"type":1,"notes":[]},{"LPB":4,"num":112,"block":1,"type":1,"notes":[]},{"LPB":4,"num":120,"block":4,"type":1,"notes":[]},{"LPB":4,"num":128,"block":0,"type":1,"notes":[]},{"LPB":4,"num":136,"block":2,"type":1,"notes":[]},{"LPB":4,"num":144,"block":1,"type":1,"notes":[]},{"LPB":4,"num":152,"block":8,"type":1,"notes":[]},{"LPB":4,"num":160,"block":2,"type":1,"notes":[]},{"LPB":4,"num":168,"block":1,"type":1,"notes":[]},{"LPB":4,"num":176,"block":0,"type":1,"notes":[]},{"LPB":4,"num":184,"block":6,"type":1,"notes":[]}]
+}

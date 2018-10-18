@@ -14,6 +14,8 @@ public class SelectManager : MonoBehaviour {
 
 	public GameObject highSpeedText;
 
+	public GameObject CanvasTutorial;
+
 	// Use this for initialization
 	void Start () {
 		highSpeed = 1.0f;
@@ -35,6 +37,11 @@ public class SelectManager : MonoBehaviour {
 
 	public void Push_SelectButton(){
 		SceneManager.LoadScene ("PlayingScene"); 
+	}
+
+	public void Push_TutorialButton(){
+		AudioManager.Instance.PlaySE ("SELECT");
+		CanvasTutorial.gameObject.SetActive (true);
 	}
 
 	public void Push_HighSpeedUpButton(){

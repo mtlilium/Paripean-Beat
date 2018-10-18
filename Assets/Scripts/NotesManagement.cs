@@ -30,7 +30,9 @@ public class NotesManagement : MonoBehaviour {
 	public GameObject timeText2;
 
 	//タイマー
-	public static float timer;
+	public static float timer; //使うやつ
+
+
 
 
 	//各判定数
@@ -66,11 +68,11 @@ public class NotesManagement : MonoBehaviour {
 	private static int index = 0;
 
 
+
 	// Use this for initialization
 	void Start () {
 		timer = 0.0f;
 		AudioManager.Instance.AttachBGMSource.Stop ();
-		noteSample = GameObject.Find ("NoteObjects").GetComponent<NoteObject> ();
 
 		perfectCount = 0;
 		goodCount = 0;
@@ -81,7 +83,6 @@ public class NotesManagement : MonoBehaviour {
 		score = 0;
 
 		clearStatus = false;
-
 	
 
 		//リスト初期化
@@ -90,9 +91,6 @@ public class NotesManagement : MonoBehaviour {
 		noteList [1] = new List<int> (); //2
 		noteList [2] = new List<int> (); //3
 
-	
-		//シーン遷移後４秒後に曲の再生
-		StartCoroutine (MusicStart (4.000f, ListUpManager.nextPlayMusic.name));
 
 		//パーフェクト判定は1000000点をノーツ数で割った点数。goodはその半分
 
@@ -112,9 +110,14 @@ public class NotesManagement : MonoBehaviour {
 		}
 		goodScore = (int)(perfectScore / 2);
 
+		//シーン遷移後４秒後に曲の再生
+		StartCoroutine (MusicStart (4.000f, ListUpManager.nextPlayMusic.name));
+
 	}
 	// Update is called once per frame
 	void Update () {
+
+
 		if (CheckFinish()) {
 			if (clearStatus == false) {
 				clearStatus = true;
@@ -124,17 +127,8 @@ public class NotesManagement : MonoBehaviour {
 		}
 		//時間制御関係
 
-		//musicの時間基準にしたい。。。けど無理。。。
-		/*if (timer >= 4.0f) {
-			timer = AudioManager.Instance.AttachBGMSource.time + 4.0f;
-		} else {
-			timer += 1 * Time.smoothDeltaTime;
-		} */
-
-		//timer += Time.deltaTime;
 		timer = Time.timeSinceLevelLoad; //なんかこっちのほうがよさそう。。
-		//timeText2.GetComponent<Text> ().text = NotesManagement.timer.ToString();
-	
+
 	}
 
 	//ノートが曲が始まって何秒後に判定ラインに来るか

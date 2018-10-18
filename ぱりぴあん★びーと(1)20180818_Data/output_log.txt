@@ -1,0 +1,226 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yusei\Documents\GitHub\Paripean-Beat\ぱりぴあん★びーと(1)20180818_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.983118 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.199781 ms
+'PSYSHOCK' CAN BE YUKARI 3.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bonvenon en nia marĉo!.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Delivery Thunder.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO10.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO11.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO2.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO3.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO4.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO5.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO6.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO7.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO8.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO9.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroy All Before U.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+E.T.H.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PARIPI.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound Of The Past.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tutorial.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ᴋ∀ω∀ɪɪ☆GABBERZ.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+いろはにほへとちりぬるを百合百合尊い.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+エイサイハラマスコイ踊り-ボブネミハードスタイルRemix-.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1263.
+Total: 1.562799 ms (FindLiveObjects: 0.089917 ms CreateObjectMapping: 0.055713 ms MarkObjects: 1.224639 ms  DeleteObjects: 0.191823 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.690513 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 797.
+Total: 1.251085 ms (FindLiveObjects: 0.103316 ms CreateObjectMapping: 0.065939 ms MarkObjects: 1.008837 ms  DeleteObjects: 0.071581 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.024000 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 0.709818 ms (FindLiveObjects: 0.056771 ms CreateObjectMapping: 0.027504 ms MarkObjects: 0.425961 ms  DeleteObjects: 0.198170 ms)
+
+'PSYSHOCK' CAN BE YUKARI 3.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bonvenon en nia marĉo!.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Delivery Thunder.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO10.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO11.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO2.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO3.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO4.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO5.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO6.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO7.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO8.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DEMO9.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroy All Before U.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+E.T.H.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PARIPI.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound Of The Past.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tutorial.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ᴋ∀ω∀ɪɪ☆GABBERZ.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+いろはにほへとちりぬるを百合百合尊い.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+エイサイハラマスコイ踊り-ボブネミハードスタイルRemix-.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3bf0 -> priority: 1 
+  Thread -> id: 1e68 -> priority: 1 

@@ -18,7 +18,7 @@ public class ResultManagement : MonoBehaviour {
 	}
 
 	public void PushBackSelectButton(){
-		Destroy (AudioManager.Instance.gameObject);
+		//Destroy (AudioManager.Instance.gameObject);
 		SceneManager.LoadScene ("SelectScene");
 	}
 

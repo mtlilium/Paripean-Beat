@@ -72,7 +72,7 @@ public class ListUpManager : MonoBehaviour {
 		string json = File.ReadAllText(@"Assets\Resources\Sounds\Notes\" + filename);
 		MusicInformation music = new MusicInformation();
 
-		//複数譜面対応させるなら変更しないと
+		//複数譜面対応させるなら変更しないと?
 		Notes note = new Notes();
 		JsonUtility.FromJsonOverwrite (json, note);
 
@@ -89,8 +89,14 @@ public class ListUpManager : MonoBehaviour {
 		nextPlayMusic = musicsDic [key];
 	}
 
-	//ストーリーモード用 課題曲のみをActiveにする
+	//ストーリーモード用 課題曲のみをActiveにする //1st styleではストーリーモードはない
 	public void ElectMusic(int stage, string key, GameObject obj){
+
+
+		if (musicsDic [key].stage == -1) {//チュートリアル用の曲を外す
+			obj.SetActive (false);
+		}
+
 		if (stage == 0) {
 			return;
 		}
@@ -108,13 +114,15 @@ public class MusicInformation{
 	public int BPM;
 	public int level;
 	public int levelAnother;
-	public int stage; //ストーリーモード用
+	public int stage; //ストーリーモード用 今回はストーリーモードないので...チュートリアル省く用
 	public Notes[] notes;
 	public Notes[] notesAnother;
+
+	//以下今回は使わない
 	public MusicScore[] musicScore;//Notes[] notes;
 
 }
-//これで複数譜面に対応できた
+//これで複数譜面に対応できた?
 [Serializable]
 public class MusicScore{
 	public Notes[] notes;

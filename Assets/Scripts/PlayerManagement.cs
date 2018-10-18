@@ -39,7 +39,6 @@ public class PlayerManagement : MonoBehaviour {
 	public GameObject comboText;
 	public GameObject maxComboText;
 
-	public GameObject timeText;
 
 	//keyBeam
 	public GameObject[] keyBeams;
@@ -152,7 +151,7 @@ public class PlayerManagement : MonoBehaviour {
 		if (NotesManagement.combo == 0) {
 			comboText.GetComponent<Text> ().text = "";
 		} else {
-			comboText.GetComponent<Text> ().text = "COMBO " + NotesManagement.combo.ToString ();
+			comboText.GetComponent<Text> ().text = NotesManagement.combo.ToString () + " COMBO ";
 		}
 		maxComboText.GetComponent<Text> ().text = NotesManagement.maxCombo.ToString();
 	}
@@ -162,12 +161,11 @@ public class PlayerManagement : MonoBehaviour {
 		if (NotesManagement.timer <= 4) {
 			m = 0;
 			s = 0;
-			timeText.GetComponent<Text> ().text = m.ToString () + " : " + s.ToString ();
 			return;
 		}
 		m = (int)((NotesManagement.timer - 4.0f) / 60);
 		s = (int)(NotesManagement.timer - 4.0f) - 60 * m;
-		timeText.GetComponent<Text> ().text = m.ToString () + " : " + s.ToString ();
+
 		musicSlider.value = (60*m + s)/AudioManager.Instance.AttachBGMSource.clip.length;
 	}
 
